@@ -8,7 +8,8 @@ FEATURES
 - Displays temperature, humidity and wind speed for the specified location.
 
 SCREENSHOTS OF THE WEBSITE
-![Screenshot (25)](https://github.com/itsmesona09/Weather-Application/assets/111109613/991ca4a0-7b07-4e6c-937b-9b08e5bc0aed)
+
 ![Screenshot (24)](https://github.com/itsmesona09/Weather-Application/assets/111109613/06e153e0-fc8d-47cc-a975-acac09f49d2b)
+![Screenshot (25)](https://github.com/itsmesona09/Weather-Application/assets/111109613/991ca4a0-7b07-4e6c-937b-9b08e5bc0aed)
 
 
